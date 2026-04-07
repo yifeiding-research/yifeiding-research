@@ -46,7 +46,7 @@ A central methodological contribution is a cross-lingual calibration approach fo
 
 ## 🎓 Background
 
-- PhD in Political Science — University of Luxembourg *(2023–present)*
+- PhD in Political Science — University of Luxembourg *(2024–present)*
 - MA in International Relations — Paul-Valéry University of Montpellier
 - BA in Economics — Renmin University of China
 - BA in Social Sciences — Paul-Valéry University of Montpellier
