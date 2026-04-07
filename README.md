@@ -14,7 +14,7 @@ Computational political scientist studying how digital opinion leaders reshape p
 **Political Influencers in Digital Democracy: A Comparative Analysis of Country Size, Language Structure, and Democratic Quality**
 *Cases: Luxembourg · France · Hungary*
 
-My dissertation develops a **Multilevel Influence Framework** to study political influencer behaviour across five platforms (YouTube, TikTok, Instagram, Facebook, Twitter/X) and four languages (French, Luxembourgish, German, Hungarian). The project is fully pre-registered on OSF.
+My dissertation develops a **Multilevel Influence Framework** to study political influencer behaviour across five platforms (YouTube, TikTok, Instagram, Facebook, Twitter/X) and four languages (English, French, Luxembourgish, German, Hungarian). The project is fully pre-registered on OSF.
 
 | | |
 |---|---|
