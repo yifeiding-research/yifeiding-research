@@ -45,14 +45,14 @@ A central methodological contribution is a cross-lingual calibration approach us
 
 ## 🎓 Background
 
-- PhD in Political Science — University of Luxembourg *(2023–present)*
-- MA in International Relations — Paul-Valéry University of Montpellier
-- BA in Economics — Renmin University of China
-- BA in Social Sciences — Paul-Valéry University of Montpellier
+- PhD in Political Science — University of Luxembourg *(2024–present)*
+- MA in International Relations — Paul-Valéry University of Montpellier *(2021–2023)*
+- BA in Economics — Renmin University of China *(2018–2022)*
+- BA in Social Sciences — Paul-Valéry University of Montpellier *(2020–2021)*
 
-**Languages (communicative):** Mandarin Chinese (native) · French (C2) · English (C1) · German (B2) · Luxembourgish (A2)
+**Languages (communicative):** Mandarin Chinese (native) · French (C1) · English (C1) 
 
-**Research languages:** French · German · Luxembourgish (corpus annotation & qualitative analysis) · Hungarian (computational processing via mBERT/XLM-R)
+**Research languages:** English ·French · German · Luxembourgish (corpus annotation & qualitative analysis) · Hungarian (computational processing via mBERT/XLM-R)
 
 ---
 
@@ -61,6 +61,6 @@ A central methodological contribution is a cross-lingual calibration approach us
 - 📧 yifei.ding.001@student.uni.lu
 - 🔗 ORCID: [0009-0009-6182-2001](https://orcid.org/0009-0009-6182-2001)
 - 🌐 [yifeiding-research.github.io](https://yifeiding-research.github.io)
-- 🏛️ University of Luxembourg · Department of Social Sciences
+- 🏛️ University of Luxembourg · The Faculty of Humanities, Education and Social Sciences (FHSE)
 
 Open to collaborations on multilingual NLP, computational political communication, and algorithmic fairness research.
